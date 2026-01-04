@@ -20,7 +20,7 @@ const App = {
             <div class="min-h-screen flex items-center justify-center bg-gray-100">
                 <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
                     <div class="text-center mb-6">
-                        <h1 class="text-2xl font-bold text-primary mb-2">نظام إدارة المؤسسة</h1>
+                        <h1 class="text-2xl font-bold text-primary mb-2">نظام إدارة مؤسسة ركن المعرفة</h1>
                         <p class="text-gray-500">تسجيل الدخول للموظفين</p>
                     </div>
                     <form id="loginForm" class="space-y-4">
